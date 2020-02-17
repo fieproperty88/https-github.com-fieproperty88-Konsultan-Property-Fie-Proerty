@@ -1,0 +1,10 @@
+name: Konsultan Property Fie Property
+
+on: [pull_request, issues]
+
+jobs: Konsultasi Jasa Investasi, Listing Property, Managemen Properti
+  greeting:Solusi Property
+    runs-on: Dapatkan informasi lengkap
+    steps:Hubungi kami Via WA 081317957189 Fie Property
+    - uses:Langkah tepat untuk informasi lebih lanjut
+        repo-token: Konsultasi Jasa Investasi dan Listing Property
